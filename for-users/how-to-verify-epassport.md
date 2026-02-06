@@ -1,5 +1,6 @@
 ---
 description: You need to have NFC-enabled passport to complete this verification
+hidden: true
 ---
 
 # Verifying ePassport

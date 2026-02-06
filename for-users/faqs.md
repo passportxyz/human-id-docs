@@ -326,7 +326,7 @@ Each paid verification allows for one attempt. If it fails, you can request a re
 
 <summary>Do I get a full refund if my verification failed?</summary>
 
-If your verification fails, you can request a full refund.&#x20;
+If your verification fails, you can request a full refund.
 
 </details>
 
@@ -334,15 +334,7 @@ If your verification fails, you can request a full refund.&#x20;
 
 <summary>How do I request a refund?</summary>
 
-Follow these steps to request a refund:
-
-**Step 1 (Optional):** Watch a step-by-step refund walkthrough on YouTube: [https://www.youtube.com/watch?v=QkGi0VHvmuA](https://www.youtube.com/watch?v=QkGi0VHvmuA)
-
-**Step 2:** Go to the Refund Page: [https://silksecure.net/holonym/diff-wallet](https://silksecure.net/holonym/diff-wallet)
-
-**Step 3:** Look for the "Eligible for Refund" tag next to your card.
-
-**Step 4:** Click the "Eligible for Refund" label and follow the instructions to complete the process.
+You can request a refund by submitting a support ticket.
 
 </details>
 
@@ -445,7 +437,7 @@ If you're having trouble with the payment page, try clearing your browser's cach
 
 :bulb: **Roles and Permissions**: Some channels require specific roles to access. Make sure you have the right roles to unlock more content.&#x20;
 
-1. **For Token-Gated Roles**: Go to the :white\_check\_mark:│verify-holo channel and connect your wallet to Collab.Land.
+1. **For Token-Gated Roles**: Go to the :white\_check\_mark:│verify-roles channel and connect your wallet through our custom bot.
 2. **Discover More Channels & Roles**: \
    • Click “Channels & Roles” in the left sidebar. \
    • Select “Customize” to answer a few questions and gain access to additional channels and roles. \

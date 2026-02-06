@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Getting Refunded
 
 If you verification was unsuccessful, please follow the steps below to begin the refund process:
